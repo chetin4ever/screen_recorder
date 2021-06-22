@@ -1,0 +1,33 @@
+header {
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    padding: 10px
+}
+
+.button {
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+#start,
+#stop,
+#downloadButton {
+
+    background-color: cornsilk;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+video {
+    border: 1px solid lightgray;
+    width: 100%;
+    background-color: #eee;
+}
+
+/*# sourceMappingURL=/styles.dd855970.css.map */
